@@ -5,4 +5,4 @@ A tell tall tale story application using Express and Mongo DB for the backend an
 To trying this app you must adding file and write the configuration like your port, mongoDb url, and set up your googleOAuth inside your google account
 <br>
 <br>
-<img src="/userGuideStoryBook.png" alt="My cool logo"/>
+
