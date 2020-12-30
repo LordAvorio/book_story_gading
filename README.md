@@ -7,3 +7,8 @@ To trying this app you must adding file and write the configuration like your po
 
 ![userGuideStoryBook](https://user-images.githubusercontent.com/24835359/103358284-d5cfd380-4ae7-11eb-82d6-0c9676a18e5e.PNG)
 
+### 2. Installing the package using npm install
+Because this app use many npm modules, you must install the modules first using npm install in the command line.
+
+### 3. Ready to use it
+If you already set up all the requirement, congratulation to use it for any purpose.
