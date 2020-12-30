@@ -3,6 +3,7 @@ A tell tall tale story application using Express and Mongo DB for the backend an
 # Configuration for using this app :
 ### 1. Add .env file inside config folder
 To trying this app you must adding file and write the configuration like your port, mongoDb url, and set up your googleOAuth inside your google account
-<br>
-<br>
+
+
+![userGuideStoryBook](https://user-images.githubusercontent.com/24835359/103358284-d5cfd380-4ae7-11eb-82d6-0c9676a18e5e.PNG)
 
